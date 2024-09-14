@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to automate and validate the main login and registration flows in a web application using Selenium with SpecFlow in C#. The project was created to ensure the quality and proper functioning of critical functionalities of the application.
+This project aims to automate and validate the main flows on Sauce Demo application using Selenium with SpecFlow in C#. The project was created to ensure the quality and proper functioning of critical functionalities of the application.
 
 ## Project Structure
 
